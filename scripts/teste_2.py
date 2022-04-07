@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+### Teste de um sistema de reconhecimento de arucos. Cada ID de aruco reconhecido é efetuado
+### uma ação específica.
+
 import cv2
 from std_msgs.msg import String
 from sensor_msgs.msg import Image
