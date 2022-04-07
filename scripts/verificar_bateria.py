@@ -1,4 +1,4 @@
-###Código utilizado para verifica a bateria do tello (nosso querido Michel)###
+###Código utilizado para verificar a bateria do Tello (nosso querido Michel)###
 
 from djitellopy import Tello
 
