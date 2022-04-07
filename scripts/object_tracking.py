@@ -1,3 +1,6 @@
+''' Código retirado do curso realizado pela CV Zone: https://www.computervision.zone/lessons/object-tracking/
+em que o drone reconhece objetos da cor amarela e o segue quando dentro do seu campo de visão'''
+
 from djitellopy import Tello
 import cv2
 import numpy as np
