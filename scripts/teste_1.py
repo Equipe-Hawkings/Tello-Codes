@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+### Teste inicial de decolagem do Tello, utilizando ROS
+### Não mais recomendado o uso!!
+
 import rospy
 from tello_control.control import Control
 
